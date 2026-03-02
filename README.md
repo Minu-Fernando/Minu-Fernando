@@ -15,12 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi, I'm Minaya Fernando 😊  
-
-An Electronic & Telecommunication Engineering undergraduate from the University of Moratuwa, passionate about robotics, control systems, and electronics.
+I'm Minaya Fernando 😊 an Electronic & Telecommunication Engineering undergraduate from the University of Moratuwa, passionate about robotics, control systems, and electronics.
 
 Curious about how the world works — from circuits and control systems to mathematics, machine learning, and quantum physics.
----
+
 ## ⚡ Areas I enjoy exploring...
 - Control systems  
 - Analog electronics  
