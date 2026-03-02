@@ -20,9 +20,7 @@ Here are some ideas to get you started:
 An Electronic & Telecommunication Engineering undergraduate from the University of Moratuwa, passionate about robotics, control systems, and electronics.
 
 Curious about how the world works — from circuits and control systems to mathematics, machine learning, and quantum physics.
-
 ---
-
 ## ⚡ Areas I enjoy exploring...
 - Control systems  
 - Analog electronics  
@@ -37,5 +35,4 @@ Curious about how the world works — from circuits and control systems to mathe
 - Technical documentation  
 
 ## 📫 How to reach me
-- LinkedIn  
-- Email  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/yourname/)
